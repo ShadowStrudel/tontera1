@@ -1,0 +1,31 @@
+
+.boton{
+  font-size: 40px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  cursor: pointer;
+}
+
+.div{
+  display: flex;
+  align-self: auto;
+  justify-content: center;
+  align-content: center;
+  margin-top: 200px;
+  flex-direction: column;
+  width: 500px;
+  margin-left: 38%;
+}
+
+.gif{
+  
+  height: 500px;
+  width: 500px;  
+}
+
+.fc{
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
